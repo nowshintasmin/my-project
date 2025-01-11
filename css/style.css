@@ -352,7 +352,7 @@ a{
     margin:0 10px;
     color:rgba(14, 14, 14, 0.8);
     font-weight: bold;
-    font-size: 40px;
+    font-size: 35px;
     transition: 1s;
 }
 .donate_section .donate_tk button:hover{
@@ -397,6 +397,7 @@ a{
     background-color: #C6E4D6;
     padding:80px 100px;
     border-radius: 24px;
+    margin-bottom: 80px;
 }
 
 .subscribe_section h2{
